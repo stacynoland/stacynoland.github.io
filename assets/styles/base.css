@@ -6,12 +6,12 @@ html {
     color: #71A095;
 }
 
-.bi-github, .bi-linkedin, .bi-chevron-down {
+.github-link, .bi-linkedin, .bi-chevron-down {
     font-size: 2rem;
     color: black;
 }
 
-.bi-github:hover, .bi-linkedin:hover, .bi-chevron-down:hover {
+.github-link:hover, .bi-linkedin:hover, .bi-chevron-down:hover {
     color: gray;
 }
 
